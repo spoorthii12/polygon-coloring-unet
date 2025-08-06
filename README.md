@@ -4,6 +4,13 @@ This project implements a U-Net architecture conditioned on color to generate re
 
 ---
 
+## 🧪 Try It Yourself
+
+Visit the Space:
+👉 [https://huggingface.co/spaces/spoorthiii/polygon-coloring-unet](https://huggingface.co/spaces/spoorthiii/polygon-coloring-unet)
+
+---
+
 ## 📌 Overview
 
 * 🔍 Task: Given a grayscale polygon image and a color label, generate a fully colored version of the image.
@@ -84,9 +91,5 @@ Logged using Weights & Biases (wandb):
 
 ---
 
-## 🧪 Try It Yourself
-
-Visit the Space:
-👉 [https://huggingface.co/spaces/spoorthiii/polygon-coloring-unet](https://huggingface.co/spaces/spoorthiii/polygon-coloring-unet)
 
 
