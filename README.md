@@ -50,7 +50,7 @@ Logged using Weights & Biases (wandb):
 | ------ | --------------------------------------------- |
 | Loss   | Decreased steadily, plateaued after epoch 15. |
 | MAE    | Dropped from \~0.47 to \~0.13                 |
-| PSNR   | Improved from 6.4 → 15.5                      |
+| PSNR   | Improved from 6.4 → 19.5                      |
 | SSIM   | Reached up to 0.89                            |
 
 📉 Failure Modes:
