@@ -1,7 +1,3 @@
-Here is a concise and well-structured report you can include as a README.md file in your Hugging Face Space. It summarizes all key components of your polygon coloring U-Net project:
-
----
-
 # 🧠 Polygon Coloring with UNet
 
 This project implements a U-Net architecture conditioned on color to generate realistically colored images from grayscale polygon shapes. It allows interactive colorization through Hugging Face Spaces.
@@ -93,6 +89,4 @@ Logged using Weights & Biases (wandb):
 Visit the Space:
 👉 [https://huggingface.co/spaces/spoorthiii/polygon-coloring-unet](https://huggingface.co/spaces/spoorthiii/polygon-coloring-unet)
 
----
 
-Would you like me to generate and upload this as a markdown file for download or commit it directly to your Hugging Face space as a README.md?
